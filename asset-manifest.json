@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axls-pizzeria/static/css/main.520997ee.css",
+    "main.js": "/axls-pizzeria/static/js/main.93aed341.js",
+    "index.html": "/axls-pizzeria/index.html",
+    "main.520997ee.css.map": "/axls-pizzeria/static/css/main.520997ee.css.map",
+    "main.93aed341.js.map": "/axls-pizzeria/static/js/main.93aed341.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520997ee.css",
+    "static/js/main.93aed341.js"
+  ]
+}
