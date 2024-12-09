@@ -43,5 +43,3 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 This project is open-source under the [MIT License](LICENSE).  
 
 --- 
-
-Let me know if you'd like to add or adjust anything!
