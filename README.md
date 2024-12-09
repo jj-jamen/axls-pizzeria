@@ -14,7 +14,7 @@
 ## 🚀 Unique Aspects
 
 - **No Node.js Needed**:  
-  The project runs as a static webpage—no need for Node.js or server-side setup.
+  The project runs as a static webpage, no need for Node.js or server-side setup.
 - **Live Demo**:  
   Explore the static webpage here: [Axl's Pizzeria](https://jj-jamen.github.io/axls-pizzeria/).
 
